@@ -45035,5 +45035,366 @@
       }
     ],
     "meaning": "Inti makna lagu menyoroti kehidupan modern yang penuh ambisi, hedonisme, dan pencarian jati diri di tengah tekanan sosial. Ada refleksi tentang kesepian, kerinduan pada keluarga, dan ketidakpastian hubungan yang dangkal di era sekarang, di mana nilai dan keaslian sering dikaburkan oleh pencapaian materi dan ekspektasi sosial. Lagu ini menegaskan bagaimana identitas dan kebahagiaan kerap dibentuk oleh validasi eksternal, namun tetap menyisakan kekosongan emosional yang sulit diisi. Di balik kemewahan dan popularitas, ada pertanyaan eksistensial tentang makna, cinta, dan tujuan hidup."
+  },
+  "thrift shop (feat. wanz) - macklemore & ryan lewis": {
+    "lyrics": [
+      {
+        "time": 0.12,
+        "text": "Hey, Macklemore, can we go thrift shopping?"
+      },
+      {
+        "time": 3.17,
+        "text": "What? What? What? What?"
+      },
+      {
+        "time": 5.62,
+        "text": "What? What? What? What?"
+      },
+      {
+        "time": 8.26,
+        "text": "What? What? What? What?"
+      },
+      {
+        "time": 10.6,
+        "text": "What? What? What? What?"
+      },
+      {
+        "time": 13.07,
+        "text": "What? What? What? What?"
+      },
+      {
+        "time": 15.63,
+        "text": "What? What? What? What?"
+      },
+      {
+        "time": 18.36,
+        "text": "What? What? What? What?"
+      },
+      {
+        "time": 20.96,
+        "text": "What? What? What? What?"
+      },
+      {
+        "time": 23.01,
+        "text": "Oh!"
+      },
+      {
+        "time": 28.09,
+        "text": "Oh!"
+      },
+      {
+        "time": 33.14,
+        "text": "Ow!"
+      },
+      {
+        "time": 33.42,
+        "text": "I'm gonna pop some tags"
+      },
+      {
+        "time": 35.17,
+        "text": "Only got 20 dollars in my pocket"
+      },
+      {
+        "time": 38.32,
+        "text": "I'm, I'm, I'm hunting, looking for a come up"
+      },
+      {
+        "time": 41.13,
+        "text": "This is fucking awesome"
+      },
+      {
+        "time": 43.14,
+        "text": "Now, walk into the club like, \"What up? I got a big cock\""
+      },
+      {
+        "time": 46.03,
+        "text": "Nah, I'm just pumped, I bought some shit from a thrift shop"
+      },
+      {
+        "time": 48.99,
+        "text": "Ice on the fringe is so damn frosty"
+      },
+      {
+        "time": 50.79,
+        "text": "The people like, \"Damn, that's a cold-ass honky\""
+      },
+      {
+        "time": 53.89,
+        "text": "Rolling in hella deep, headed to the mezzanine"
+      },
+      {
+        "time": 56.16,
+        "text": "Dressed in all pink 'cept my gator shoes, those are green"
+      },
+      {
+        "time": 58.76,
+        "text": "Draped in a leopard mink, girl standing next to me"
+      },
+      {
+        "time": 61.23,
+        "text": "Probably shoulda washed this, smells like R. Kelly's sheets (piss)"
+      },
+      {
+        "time": 66.74,
+        "text": "But shit, it was 99 cents (bag it)"
+      },
+      {
+        "time": 69.04,
+        "text": "Copping it, washing it, 'bout to go and get some compliments"
+      },
+      {
+        "time": 71.23,
+        "text": "Passing up on those moccasins, someone else's been walking in"
+      },
+      {
+        "time": 73.58,
+        "text": "Bummy and grudgy, fucking it, I am stunting and flossing and"
+      },
+      {
+        "time": 76.18,
+        "text": "Saving my money and I'm hella happy, that's a bargain bitch"
+      },
+      {
+        "time": 78.9,
+        "text": "I'ma take your grandpa's style"
+      },
+      {
+        "time": 80.04,
+        "text": "I'ma take your grandpa's style"
+      },
+      {
+        "time": 81.5,
+        "text": "No, for real, ask your grandpa"
+      },
+      {
+        "time": 82.97,
+        "text": "Can I have his hand-me-downs? (Thank you)"
+      },
+      {
+        "time": 84.26,
+        "text": "Velour jumpsuit and some house slippers"
+      },
+      {
+        "time": 86.67,
+        "text": "Dookie brown leather jacket that I found, dig it"
+      },
+      {
+        "time": 89.07,
+        "text": "They had a broken keyboard, I bought a broken keyboard"
+      },
+      {
+        "time": 91.63,
+        "text": "I bought a skeet blanket, then I bought a knee board (yeah)"
+      },
+      {
+        "time": 94.4,
+        "text": "Hello, hello, my ace man, my Mello"
+      },
+      {
+        "time": 96.33,
+        "text": "John Wayne ain't got nothing on my fringe game, hell no"
+      },
+      {
+        "time": 99.2,
+        "text": "I could take some Pro Wings, make 'em cool, sell those"
+      },
+      {
+        "time": 101.42,
+        "text": "The sneaker heads would be like, \"Ah, he got the Velcros\""
+      },
+      {
+        "time": 104.33,
+        "text": "I'm gonna pop some tags"
+      },
+      {
+        "time": 105.84,
+        "text": "Only got 20 dollars in my pocket"
+      },
+      {
+        "time": 108.94,
+        "text": "I'm, I'm, I'm hunting, looking for a come up"
+      },
+      {
+        "time": 111.41,
+        "text": "This is fucking awesome, ow"
+      },
+      {
+        "time": 114.46,
+        "text": "I'm gonna pop some tags"
+      },
+      {
+        "time": 116.08,
+        "text": "Only got 20 dollars in my pocket"
+      },
+      {
+        "time": 119.16,
+        "text": "I'm, I'm, I'm hunting, looking for a come up"
+      },
+      {
+        "time": 121.89,
+        "text": "This is fucking awesome"
+      },
+      {
+        "time": 124.47,
+        "text": "What you know about rocking a wolf on your noggin?"
+      },
+      {
+        "time": 127.05,
+        "text": "What you knowing about wearing a fur fox skin?"
+      },
+      {
+        "time": 129.18,
+        "text": "I'm digging, I'm digging, I'm searching right through that luggage"
+      },
+      {
+        "time": 131.95,
+        "text": "One man's trash, that's another man's come up"
+      },
+      {
+        "time": 134.42,
+        "text": "Thank your granddad for donating that plaid button"
+      },
+      {
+        "time": 136.93,
+        "text": "Up shirt, 'cause right now, I'm up in here stuntin'"
+      },
+      {
+        "time": 139.68,
+        "text": "I'm at the Goodwill, you can find me in the (bins)"
+      },
+      {
+        "time": 142.17,
+        "text": "I'm not, I'm not stuck on searchin' in that section (men's)"
+      },
+      {
+        "time": 144.54,
+        "text": "Your grammy, your aunty, your momma, your mammy"
+      },
+      {
+        "time": 146.06,
+        "text": "I'll take those flannel zebra jammies, secondhand and rock that motherfucker"
+      },
+      {
+        "time": 149.65,
+        "text": "The built-in onesie with the socks on that motherfucker"
+      },
+      {
+        "time": 152.44,
+        "text": "I hit the party and they stop in that motherfucker"
+      },
+      {
+        "time": 155.1,
+        "text": "They be like, \"Oh that Gucci, that's hella tight\""
+      },
+      {
+        "time": 157.36,
+        "text": "I'm like, \"Yo, that's 50 dollars for a t-shirt\""
+      },
+      {
+        "time": 159.61,
+        "text": "Limited edition, let's do some simple addition"
+      },
+      {
+        "time": 161.77,
+        "text": "50 dollars for a t-shirt, that's just some ignorant bitch shit"
+      },
+      {
+        "time": 164.83,
+        "text": "I call that getting swindled and pimped, shit"
+      },
+      {
+        "time": 167.78,
+        "text": "I call that getting tricked by a business, that shirt's hella dough"
+      },
+      {
+        "time": 171.41,
+        "text": "And having the same one as six other people in this club is a hella don't"
+      },
+      {
+        "time": 174.94,
+        "text": "Peep game, come take a look through my telescope"
+      },
+      {
+        "time": 177.52,
+        "text": "Trying to get girls from a brand, man, you hella won't"
+      },
+      {
+        "time": 181.61,
+        "text": "Man, you hella won't"
+      },
+      {
+        "time": 184.96,
+        "text": "(Goodwill, poppin' tags, yeah)"
+      },
+      {
+        "time": 189.96,
+        "text": "I'm gonna pop some tags"
+      },
+      {
+        "time": 191.95,
+        "text": "Only got 20 dollars in my pocket"
+      },
+      {
+        "time": 194.71,
+        "text": "I'm, I'm, I'm hunting, looking for a come up"
+      },
+      {
+        "time": 197.47,
+        "text": "This is fucking awesome"
+      },
+      {
+        "time": 200.62,
+        "text": "I'll wear your granddad's clothes"
+      },
+      {
+        "time": 203.09,
+        "text": "I look incredible"
+      },
+      {
+        "time": 205.53,
+        "text": "I'm in this big-ass coat"
+      },
+      {
+        "time": 207.72,
+        "text": "From that thrift shop down the road"
+      },
+      {
+        "time": 210.57,
+        "text": "I'll wear your granddad's clothes (damn right)"
+      },
+      {
+        "time": 213.09,
+        "text": "I look incredible (uh, come on, man)"
+      },
+      {
+        "time": 215.6,
+        "text": "I'm in this big-ass coat (big ass coat)"
+      },
+      {
+        "time": 217.81,
+        "text": "From that thrift shop down the road (let's go, we coming)"
+      },
+      {
+        "time": 220.62,
+        "text": "I'm gonna pop some tags"
+      },
+      {
+        "time": 222.32,
+        "text": "Only got 20 dollars in my pocket"
+      },
+      {
+        "time": 225.3,
+        "text": "I'm, I'm, I'm hunting, looking for a come up"
+      },
+      {
+        "time": 227.99,
+        "text": "This is fucking awesome (hahaha)"
+      },
+      {
+        "time": 232.36,
+        "text": "(Is that your grandma's coat?)"
+      }
+    ],
+    "meaning": "Merayakan keunikan diri dan menolak norma konsumsi mainstream, lagu ini mengajak untuk menemukan nilai dan gaya dalam barang-barang bekas, bukan dalam kemewahan atau merek mahal. Ada kritik terhadap budaya materialisme dan pencitraan yang dangkal, sekaligus penghargaan pada kreativitas dan kebebasan berekspresi. Pesan utamanya: harga dan status sosial tidak menentukan identitas, justru keberanian tampil beda dan menghargai hal sederhana adalah bentuk autentisitas yang membebaskan."
   }
 }
