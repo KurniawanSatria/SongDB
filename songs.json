@@ -12942,5 +12942,362 @@
       }
     ],
     "meaning": "\"Mask Off\" mengungkap ketegangan antara pencapaian material dan pelarian diri melalui narkoba, sekaligus menyoroti bagaimana identitas dan kejujuran sering dikaburkan oleh tekanan sosial serta trauma masa lalu. Ada refleksi akan sikap fatalistik terhadap hidup; di satu sisi, mengejar kekayaan dan status, di sisi lain, melepaskan 'topeng' dan menerima sisi gelap diri tanpa kompromi. Pesan kuatnya terletak pada absurditas dan kehampaan dalam gaya hidup hedonistik sebagai respons terhadap ketidakpastian dan rasa sakit yang mendalam. Pada akhirnya, ada pertanyaan implisit tentang otentisitas: apakah membuka diri berarti kebebasan, atau justru kehancuran?"
+  },
+  "confident - justin bieber, chance the rapper": {
+    "lyrics": [
+      {
+        "time": 10.68,
+        "text": "Don't do it to me"
+      },
+      {
+        "time": 13.94,
+        "text": "Don't do it to me"
+      },
+      {
+        "time": 14.78,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 16.92,
+        "text": "Don't do it to me"
+      },
+      {
+        "time": 18.16,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 20.37,
+        "text": "Don't do it to me"
+      },
+      {
+        "time": 21.81,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 24.56,
+        "text": "Don't do it to me"
+      },
+      {
+        "time": 25.75,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 28.53,
+        "text": "Focused, I'm focused"
+      },
+      {
+        "time": 31.88,
+        "text": "She got a body like that"
+      },
+      {
+        "time": 33.14,
+        "text": "I ain't never seen nothing like that, ah-ah"
+      },
+      {
+        "time": 35.79,
+        "text": "Like a fantasy in front of me, I-I-I"
+      },
+      {
+        "time": 39.33,
+        "text": "I think that something special is going down"
+      },
+      {
+        "time": 42.64,
+        "text": "That's right, I think she foreign"
+      },
+      {
+        "time": 44.38,
+        "text": "I think she foreign, got passports"
+      },
+      {
+        "time": 46.65,
+        "text": "Mi amor started slow, got faster"
+      },
+      {
+        "time": 49.83,
+        "text": "She gon' work some more, work some more"
+      },
+      {
+        "time": 53.03,
+        "text": "No stopping her now, no stopping her now"
+      },
+      {
+        "time": 56.88,
+        "text": "Then she started dancing, sexual romancing"
+      },
+      {
+        "time": 60.85,
+        "text": "Nasty but she fancy, lipstick on my satin sheets"
+      },
+      {
+        "time": 64.55,
+        "text": "What's your nationality? I wonder if there's more of you"
+      },
+      {
+        "time": 67.98,
+        "text": "She's got my attention, she's confident"
+      },
+      {
+        "time": 71.52,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 74.01,
+        "text": "She's confident"
+      },
+      {
+        "time": 75.32,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 77.74,
+        "text": "And I'm down with it"
+      },
+      {
+        "time": 79.06,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 81.22,
+        "text": "She's confident"
+      },
+      {
+        "time": 82.32,
+        "text": "You can tell by the way she walks in the room"
+      },
+      {
+        "time": 85.53,
+        "text": "She said it's her first time"
+      },
+      {
+        "time": 88.11,
+        "text": "I think she might have lied"
+      },
+      {
+        "time": 89.67,
+        "text": "Feels so good damn, and I don't know why"
+      },
+      {
+        "time": 92.72,
+        "text": "I'm addicted, something like an addict"
+      },
+      {
+        "time": 96.43,
+        "text": "Got me twisted, but still I gotta have it"
+      },
+      {
+        "time": 100.03,
+        "text": "Explosive, explosive (I could still smell her perfume)"
+      },
+      {
+        "time": 106.78,
+        "text": "It's not hard to notice, that I'm open"
+      },
+      {
+        "time": 111.05,
+        "text": "Hypnotised by the way she moves"
+      },
+      {
+        "time": 114.89,
+        "text": "Then she started dancing, sexual romancing"
+      },
+      {
+        "time": 118.14,
+        "text": "Nasty but she fancy, Mona Lisa master piece"
+      },
+      {
+        "time": 121.99,
+        "text": "What's your nationality? I wonder if there's more of you"
+      },
+      {
+        "time": 125.37,
+        "text": "She's got my attention, she's confident"
+      },
+      {
+        "time": 129.18,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 131.58,
+        "text": "She's confident"
+      },
+      {
+        "time": 133,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 135.03,
+        "text": "And I'm down with it"
+      },
+      {
+        "time": 136.47,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 138.67,
+        "text": "She's confident"
+      },
+      {
+        "time": 139.86,
+        "text": "I could tell by the way she walks in the room"
+      },
+      {
+        "time": 142.81,
+        "text": "She said it's her first time"
+      },
+      {
+        "time": 145.54,
+        "text": "I think she might have lied"
+      },
+      {
+        "time": 146.63,
+        "text": "Feels so good damn, and I don't know why"
+      },
+      {
+        "time": 150.17,
+        "text": "I'm addicted, something like a headache"
+      },
+      {
+        "time": 153.81,
+        "text": "Got me twisted, but still I gotta have it (Chance, the Rapper?)"
+      },
+      {
+        "time": 157.85,
+        "text": "Tattoos, piercings and she just learned to twerk"
+      },
+      {
+        "time": 160.79,
+        "text": "She ain't got a heart or a ass, just her brains, gotta ask"
+      },
+      {
+        "time": 162.93,
+        "text": "'Cause her ass on a learning curve"
+      },
+      {
+        "time": 164.39,
+        "text": "And she love to earn the verb, I mean burn the word"
+      },
+      {
+        "time": 166.45,
+        "text": "That's only legal with a doctors note"
+      },
+      {
+        "time": 167.86,
+        "text": "Real deep pockets like a doctors coat"
+      },
+      {
+        "time": 169.61,
+        "text": "Stay fitted like Diddy, hair back tryna rock the boat"
+      },
+      {
+        "time": 171.78,
+        "text": "She the first mate wanna rock the boat"
+      },
+      {
+        "time": 173.57,
+        "text": "She never forget to ride like a bicycle"
+      },
+      {
+        "time": 175.39,
+        "text": "She like planes, trains, chains with icicles"
+      },
+      {
+        "time": 176.91,
+        "text": "It goes, it goes her, blank, blank, and rock and roll"
+      },
+      {
+        "time": 179,
+        "text": "She say \"I know, honey bunny that's a funny thing\""
+      },
+      {
+        "time": 182.82,
+        "text": "Thots twerk for the goodfella"
+      },
+      {
+        "time": 184.59,
+        "text": "She money dan' with the money team, ra!"
+      },
+      {
+        "time": 186.96,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 188.52,
+        "text": "She's confident"
+      },
+      {
+        "time": 190.13,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 192.35,
+        "text": "And I'm down with it"
+      },
+      {
+        "time": 193.6,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 195.81,
+        "text": "She's confident"
+      },
+      {
+        "time": 196.74,
+        "text": "You can tell by the way she walks in the room"
+      },
+      {
+        "time": 200.3,
+        "text": "She said it's her first time"
+      },
+      {
+        "time": 202.74,
+        "text": "I think she might have lied"
+      },
+      {
+        "time": 204.02,
+        "text": "Feels so good damn, and I don't know why"
+      },
+      {
+        "time": 207.47,
+        "text": "I'm addicted, something like a headache"
+      },
+      {
+        "time": 211.21,
+        "text": "Got me twisted, but still I gotta have it"
+      },
+      {
+        "time": 216.73,
+        "text": "But still I gotta have it"
+      },
+      {
+        "time": 220.42,
+        "text": "But still I gotta have it"
+      },
+      {
+        "time": 223.83,
+        "text": "But still I gotta have it"
+      },
+      {
+        "time": 229.41,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 232.94,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 236.48,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 240.2,
+        "text": "Oh no no, oh no no"
+      },
+      {
+        "time": 241.98,
+        "text": "But still I gotta have it"
+      }
+    ],
+    "meaning": "Kepercayaan diri perempuan dipotret sebagai kekuatan magnetis yang menimbulkan daya tarik dan kekaguman, bahkan menciptakan obsesi. Pesan utamanya adalah bahwa kekuatan personal dan sikap percaya diri mampu mengubah dinamika sosial, memberi pengaruh besar pada orang di sekitarnya, dan mendobrak stereotip tentang daya tarik perempuan. Ada penegasan bahwa pesona sejati tidak hanya soal penampilan, tapi juga soal keyakinan diri dan keberanian mengekspresikan jati diri. Di balik itu, muncul refleksi tentang kerentanan dan ketertarikan emosional yang sulit dikendalikan ketika berhadapan dengan karisma semacam itu."
   }
 }
